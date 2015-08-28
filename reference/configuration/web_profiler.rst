@@ -1,4 +1,4 @@
-.. index::
+.. index:: ---------
     single: Configuration reference; WebProfiler
 
 WebProfilerBundle Configuration ("web_profiler")
